@@ -1,0 +1,27 @@
+{
+  "name": "ALLCHO — Universal Discovery Engine",
+  "short_name": "ALLCHO",
+  "description": "Search everything. Choose smarter. Coaching, Hostel, Mess, PG, Library — one intelligent platform.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#05030d",
+  "theme_color": "#05030d",
+  "lang": "en",
+  "categories": ["lifestyle", "business", "education"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
